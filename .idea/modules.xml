@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Padroes de Projeto.iml" filepath="$PROJECT_DIR$/Padroes de Projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padroes_de_projeto.iml" filepath="$PROJECT_DIR$/padroes_de_projeto.iml" />
     </modules>
   </component>
 </project>

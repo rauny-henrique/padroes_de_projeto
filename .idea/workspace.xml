@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a07e1e1-2baa-4ad3-a1b9-c724d11856a8" name="Default" comment="">
+    <list default="true" id="38fc82fd-bc7f-40f7-8d7e-9730250f6e40" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes de Projeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Singleton/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo1/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo1/EmitirSomVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo1/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo1/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo1/Visitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo1/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo2/CalculaTaxaVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo2/Produto1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo2/Produto2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo2/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo2/Visitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/Exemplo2/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Padroes de Projeto/PadroesGoF/Visitor/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PadroesGoF/Visitor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/PadroesGoF/Visitor/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PadroesGoF/imgs/002.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/PadroesGoF/imgs/003.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PadroesGoF/imgs/003.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/PadroesGoF/imgs/002.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,59 +35,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="634">
-                <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculaTaxaVisitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/CalculaTaxaVisitor.java">
+      <file leaf-file-name="Programa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton/Programa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="48">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Visitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Visitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Produto1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Produto1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding>
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Visitable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Visitable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -77,9 +63,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Singleton" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -90,26 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Singleton/README.md" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Cachorro.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Gato.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Visitor.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/EmitirSomVisitor.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/CalculaTaxa.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Visitable.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Produto2.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Produto1.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Visitor.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Programa.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/CalculaTaxaVisitor.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Visitor.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Visitable.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Gato.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Cachorro.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/EmitirSomVisitor.java" />
-        <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Programa.java" />
         <option value="$PROJECT_DIR$/src/PadroesGoF/Visitor/README.md" />
       </list>
     </option>
@@ -124,10 +87,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1407" />
+    <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -136,52 +99,37 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Padroes de Projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Padroes de Projeto" type="462c0819:PsiDirectoryNode" />
+              <item name="padroes_de_projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="padroes_de_projeto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Padroes de Projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Padroes de Projeto" type="462c0819:PsiDirectoryNode" />
+              <item name="padroes_de_projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="padroes_de_projeto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Padroes de Projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Padroes de Projeto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PadroesGoF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Padroes de Projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Padroes de Projeto" type="462c0819:PsiDirectoryNode" />
+              <item name="padroes_de_projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="padroes_de_projeto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PadroesGoF" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Padroes de Projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Padroes de Projeto" type="462c0819:PsiDirectoryNode" />
+              <item name="padroes_de_projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="padroes_de_projeto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PadroesGoF" type="462c0819:PsiDirectoryNode" />
-              <item name="Visitor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Padroes de Projeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Padroes de Projeto" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PadroesGoF" type="462c0819:PsiDirectoryNode" />
-              <item name="Visitor" type="462c0819:PsiDirectoryNode" />
-              <item name="Exemplo2" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,18 +137,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="PadroesGoF.Visitor" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/PadroesGoF/Visitor" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/PadroesGoF/imgs" />
-      <recent name="$PROJECT_DIR$/src/PadroesGoF/Singleton/imgs" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,29 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Programa (1)">
-    <configuration name="Programa (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PadroesGoF.Visitor.Exemplo1.Programa" />
-      <module name="Padroes de Projeto" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PadroesGoF.Visitor.Exemplo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PadroesGoF.Visitor.Exemplo2.Programa" />
-      <module name="Padroes de Projeto" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PadroesGoF.Visitor.Exemplo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -278,49 +192,39 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.Programa" />
-      <item itemvalue="Application.Programa (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Programa (1)" />
-        <item itemvalue="Application.Programa" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a07e1e1-2baa-4ad3-a1b9-c724d11856a8" name="Default" comment="" />
-      <created>1529761175410</created>
+      <changelist id="38fc82fd-bc7f-40f7-8d7e-9730250f6e40" name="Default" comment="" />
+      <created>1529776388173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529761175410</updated>
-      <workItem from="1529761178122" duration="13426000" />
+      <updated>1529776388173</updated>
+      <workItem from="1529776389351" duration="263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13426000" />
+    <option name="totallyTimeSpent" value="263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32988626" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32988626" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32988626" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
@@ -329,8 +233,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -346,292 +250,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Padroes de Projeto.iml">
+    <entry file="file://$PROJECT_DIR$/padroes_de_projeto.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/PadroesGoF.Singleton.Singleton">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>PadroesGoF.Singleton.Singleton</OriginalElement>
-          <nodes>
-            <node x="" y="">PadroesGoF.Singleton.Singleton</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="106.0" y="48.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-119">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Produto2.java">
+    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java">
+    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Singleton/Programa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2020">
-          <caret line="3136" column="39" lean-forward="true" selection-start-line="3136" selection-start-column="39" selection-end-line="3136" selection-end-column="39" />
-          <folding>
-            <element signature="e#133302#133303#0" expanded="true" />
-            <element signature="e#133345#133346#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/util/locale/BaseLocale.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/util/locale/LocaleExtensions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1103">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/text/DecimalFormatSymbols.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="111" column="37" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
-          <folding>
-            <element signature="e#4038#4039#0" expanded="true" />
-            <element signature="e#4074#4075#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Locale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="489" column="38" selection-start-line="489" selection-start-column="31" selection-end-line="489" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/PadroesGoF.Visitor.Exemplo2">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>PadroesGoF.Visitor.Exemplo2</OriginalElement>
-          <nodes>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo2.Visitor</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo2.CalculaTaxaVisitor</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo2.Visitable</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo2.Produto2</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo2.Produto1</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo2.Programa</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="217.0" y="279.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Visitable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Gato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/EmitirSomVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Programa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/PadroesGoF.Visitor.Exemplo1">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>PadroesGoF.Visitor.Exemplo1</OriginalElement>
-          <nodes>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo1.Visitable</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo1.Cachorro</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo1.Programa</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo1.EmitirSomVisitor</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo1.Visitor</node>
-            <node x="" y="">PadroesGoF.Visitor.Exemplo1.Gato</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="108.0" y="256.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo1/Programa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Visitable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/CalculaTaxaVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/Exemplo2/Produto1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/imgs/003.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/imgs/002.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/imgs/001.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PadroesGoF/Visitor/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="634">
-            <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
