@@ -4,12 +4,17 @@ public class Singleton {
 
     private static Singleton instance;
 
-    public static Singleton getInstance() {
+    public static synchronized Singleton getInstance() {
 
-        //Evita criar a instancia no momento da sua declaração
-        if (instance == null) {
-            System.out.println("Criou uma única instância!");
-            instance = new Singleton();
+        //Evita problemas com multiThereds
+        synchronized (Singleton.class) {
+
+            //Evita criar a instancia no momento da sua declaração
+            if (instance == null) {
+                instance = new Singleton();
+                System.out.println("Criou uma única instância!");
+            }
+
         }
 
         return instance;

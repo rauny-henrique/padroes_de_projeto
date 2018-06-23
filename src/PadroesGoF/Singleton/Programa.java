@@ -4,12 +4,13 @@ public class Programa {
 
     public static void main(String[] args) {
 
-        Singleton singletonInstance = null;
+        Singleton singletonInstance = Singleton.getInstance();
+        System.out.println("ID da instância 1 é: " + System.identityHashCode(singletonInstance));
 
-        for (int i = 0; i < 100; i++) {
-            singletonInstance = Singleton.getInstance();
-        }
+        Singleton newSingletonInstance = Singleton.getInstance();
+        System.out.println("ID da instância 2 é: " + System.identityHashCode(newSingletonInstance));
 
+        //Metodo qualquer do Singleton
         singletonInstance.imprimeAlgo();
 
     }
