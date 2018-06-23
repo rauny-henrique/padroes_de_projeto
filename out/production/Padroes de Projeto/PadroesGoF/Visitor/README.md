@@ -13,12 +13,16 @@ uma única classe (Visitante Concreto).
 
 Estrutura composta por:
 
-* Visitante (Visitor): Encapsula as operações (interface). Declara uma operação de visita 
-para cada classe de Visitante Concreto;
+* Visitante (Visitor): 
+Encapsula as operações (interface). Declara uma operação de visita 
+para cada classe de Visitante Concreto (ConcreteVisitor);
 
-* Visitante Concreto (ConcreteVisitor): Implementa cada operação declarada pelo Visitor. 
-Implementa uma operação aceitaVisita() que recebe um Visitante e chama a 
-operação de visita apropriada deste Visitante.
+* Visitante Concreto (ConcreteVisitor): 
+Implementa cada operação declarada pelo Visitor (atravez da interface Visitor).
+
+* Elemento Visitante: 
+Implementa uma operação aceitaVisita(), atravez da interface Visitable, que recebe um 
+Visitante e chama a operação de visita apropriada deste Visitante;
 
 ## Vantagens:
 
@@ -47,5 +51,3 @@ Exemplo 1:
 ![alt text](../imgs/002.png)
 
 Exemplo 2:
-
-![alt text](../imgs/002.png)
