@@ -1,6 +1,6 @@
 package PadroesGoF.Observer;
 
-public class EstoqueObserver implements Observer {
+public class EstoqueObserver implements EstoqueListener {
 
     private double precoProduto1;
     private double precoProduto2;
@@ -21,7 +21,7 @@ public class EstoqueObserver implements Observer {
     }
 
     @Override
-    public void update(double precoProduto1, double precoProduto2) {
+    public void updatePreco(double precoProduto1, double precoProduto2) {
 
         this.precoProduto1 = precoProduto1;
         this.precoProduto2 = precoProduto2;

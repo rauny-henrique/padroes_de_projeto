@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Estoque implements Subject {
 
-    private ArrayList<Observer> observers;
+    private ArrayList<EstoqueListener> observers;
 
     private double precoProduto1;
     private double precoProduto2;
@@ -14,16 +14,16 @@ public class Estoque implements Subject {
     }
 
     @Override
-    public void register(Observer novoObserver) {
+    public void register(EstoqueListener novoObserver) {
         observers.add(novoObserver);
     }
 
     @Override
-    public void unregister(Observer removerObserver) {
+    public void unregister(EstoqueListener removerObserver) {
 
         int observerIndex = observers.indexOf(removerObserver);
 
-        System.out.println("Observer deletado!");
+        System.out.println("EstoqueListener deletado!");
 
         observers.remove(observerIndex);
 
@@ -32,9 +32,9 @@ public class Estoque implements Subject {
     @Override
     public void notifyObserver() {
 
-        for (Observer observer: observers){
+        for (EstoqueListener observer: observers){
 
-            observer.update(precoProduto1, precoProduto2);
+            observer.updatePreco(precoProduto1, precoProduto2);
 
         }
 
@@ -50,7 +50,7 @@ public class Estoque implements Subject {
         notifyObserver();
     }
 
-    public ArrayList<Observer> getObservers() {
+    public ArrayList<EstoqueListener> getObservers() {
         return observers;
     }
 

@@ -1,6 +1,6 @@
 # Padrões de Projeto
 
-Esse repositório tem como objetivo explicar de maneira sucinta as definições, 
+Este repositório tem como objetivo explicar de maneira sucinta as definições, 
  vantagens, desvantagens, diagramas e exemplos dos seguintes padrões de projeto:
 
 * GRASP:

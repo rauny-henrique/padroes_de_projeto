@@ -2,8 +2,8 @@ package PadroesGoF.Observer;
 
 public interface Subject {
 
-    void register(Observer observer);
-    void unregister(Observer observer);
+    void register(EstoqueListener observer);
+    void unregister(EstoqueListener observer);
     void notifyObserver();
 
 }

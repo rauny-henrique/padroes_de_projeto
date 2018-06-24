@@ -16,12 +16,12 @@ public class Programa {
         estoque.setPrecoProduto1(20.50);
         estoque.setPrecoProduto2(12.30);
 
-        System.out.println("Observer registrados: " + estoque.getObservers() + "\n");
+        System.out.println("EstoqueListener registrados: " + estoque.getObservers() + "\n");
 
         estoque.unregister(estoqueObserver1);
         estoque.unregister(estoqueObserver2);
 
-        System.out.println("\nObserver registrados: " + estoque.getObservers());
+        System.out.println("\nEstoqueListener registrados: " + estoque.getObservers());
 
     }
 

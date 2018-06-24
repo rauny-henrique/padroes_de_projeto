@@ -1,4 +1,4 @@
-# Singleton
+# MVC
 
 ## Definição:
 
