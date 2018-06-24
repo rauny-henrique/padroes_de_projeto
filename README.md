@@ -8,7 +8,8 @@ Este repositório tem como objetivo explicar de maneira sucinta as definições,
     * Expert
     * Creator
     * Coesão e Acoplamento
-    * Polimorfismo e Herança
+    * Polimorfismo
+    * Herança
 
 * GoF:
 
@@ -27,5 +28,6 @@ Este repositório tem como objetivo explicar de maneira sucinta as definições,
 * https://www.youtube.com/playlist?list=PLF206E906175C7E07
 * https://tableless.com.br/mvc-afinal-e-o-que/
 * http://www.macoratti.net/vbn_mvc.htm
+* https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
 
 
