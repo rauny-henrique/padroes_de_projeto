@@ -35,4 +35,4 @@ particular.
 
 ## Diagrama:
 
-![alt text](../../imgs/005.png)
+![alt text](../../imgs/006.png)
