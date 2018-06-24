@@ -48,8 +48,8 @@ de dados específica de um algoritmo pode er ocultada no visitante.
 
 Exemplo 1:
 
-![alt text](../imgs/002.png)
+![alt text](../../imgs/002.png)
 
 Exemplo 2:
 
-![alt text](../imgs/003.png)
+![alt text](../../imgs/003.png)

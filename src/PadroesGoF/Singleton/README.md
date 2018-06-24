@@ -29,4 +29,4 @@ e ter acesso aos dados da classe;
 
 ## Diagrama:
 
-![alt text](../imgs/001.png)
+![alt text](../../imgs/001.png)
