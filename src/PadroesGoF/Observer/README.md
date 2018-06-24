@@ -55,3 +55,4 @@ ser forçados a trabalhar duro para deduzir as mudanças.
 ## Diagrama:
 
 ![alt text](../imgs/004.png)
+
