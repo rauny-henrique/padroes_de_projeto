@@ -45,4 +45,4 @@ descontroladamente para abrigar uma conjunto grande de possibilidades.
 
 ## Diagrama:
 
-![alt text](../../imgs/006.png)
+![alt text](../../imgs/007.png)

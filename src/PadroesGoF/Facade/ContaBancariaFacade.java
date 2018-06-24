@@ -1,5 +1,9 @@
 package PadroesGoF.Facade;
 
+import PadroesGoF.Facade.Subsistemas.ChecarCodigoDeSeguranca;
+import PadroesGoF.Facade.Subsistemas.ChecarNumeroDaConta;
+import PadroesGoF.Facade.Subsistemas.ChecarSaldo;
+
 public class ContaBancariaFacade {
 
     private int numeroDaConta;

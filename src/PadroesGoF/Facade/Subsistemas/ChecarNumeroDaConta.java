@@ -1,4 +1,4 @@
-package PadroesGoF.Facade;
+package PadroesGoF.Facade.Subsistemas;
 
 public class ChecarNumeroDaConta {
 
