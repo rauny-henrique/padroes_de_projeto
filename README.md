@@ -12,7 +12,7 @@ Este repositório tem como objetivo explicar de maneira sucinta as definições,
 
 * GoF:
 
-    * Façade
+    * Facade
     * FactoryMethod
     * Singleton
     * Visitor
