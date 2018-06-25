@@ -19,4 +19,4 @@ genéricas.
 
 ## Diagrama:
 
-![alt text](../../imgs/007.png)
+![alt text](../../imgs/008.png)

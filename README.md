@@ -29,5 +29,7 @@ Este repositório tem como objetivo explicar de maneira sucinta as definições,
 * https://tableless.com.br/mvc-afinal-e-o-que/
 * http://www.macoratti.net/vbn_mvc.htm
 * https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
+* https://sites.google.com/site/mapnoturno20172/
+* http://ramonsilva.net/boas-praticas/grasp/creator-padroes-grasp/
 
 
