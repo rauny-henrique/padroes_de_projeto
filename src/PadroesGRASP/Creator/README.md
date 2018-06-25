@@ -17,11 +17,8 @@ requisitos abaixo:
 ## Vantagens:
 
 * O código fica mais fácil de manter e de testar;
+
 * Fraco acoplamento.
-
-## Desvantagens:
-
-
 
 ## Diagrama:
 

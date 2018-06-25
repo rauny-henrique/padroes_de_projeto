@@ -11,7 +11,4 @@ conhecimento desse objeto com relação ao que deve ser feito ou conhecido por e
 
 * Alta coesão, já que os objetos fazem tudo que é relacionado à sua própria informação/especialidade.
 
-## Desvantagens:
-
-
 
